@@ -101,13 +101,3 @@ Recruiter approves/rejects:
 Admin downloads CSV export of all timesheets.
 
 ---
-
-## Future Ideas
-
-- Use MongoDB or Postgres for persistent storage
-- Add CSV filters (by date, recruiter, etc.)
-- Add unit tests and validations
-
-## License
-
-MIT
